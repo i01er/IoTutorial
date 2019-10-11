@@ -17,3 +17,5 @@ This tutorial will tell you how to change the YeeLight color due to the temperat
 4. Discover (Preview)
 
 5. Condition
+ 5.1 If Yes
+ 5.2 If No
