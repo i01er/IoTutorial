@@ -8,7 +8,7 @@ This tutorial will tell you how to change the YeeLight color due to the temperat
 
 ### Start flowing
 1. Manually trigger a flow
-![](./images/manually.png)
+![Manually trigger](./images/manually.png)
 
 2. Get forecast for today
 
